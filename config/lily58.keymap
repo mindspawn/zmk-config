@@ -31,7 +31,7 @@
                            &kp LALT  &kp LGUI  &mo 1   &kp ENTER    &kp SPACE  &mo 2   &kp SINGLE_QUOTE  &kp GRAVE
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+            sensor-bindings = <&inc_dec_kp K_SCROLL_UP K_SCROLL_DOWN>;
         };
 
         lower_layer {
